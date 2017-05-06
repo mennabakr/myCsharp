@@ -1,0 +1,6 @@
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\bin\Debug\sorted-names.exe.config
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\bin\Debug\sorted-names.exe
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\bin\Debug\sorted-names.pdb
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\obj\Debug\sorted-names.csprojResolveAssemblyReference.cache
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\obj\Debug\sorted-names.exe
+C:\Users\Menna Bakr\Pictures\sorted-names\sorted-names\obj\Debug\sorted-names.pdb
